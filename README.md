@@ -20,5 +20,5 @@ I had experiences of doing some side projects on GitHub with my personal account
 - [X] Wacth *Santa Clarita Diet*
 
 # ScreenShots
-! [pic1](pic1.png)
-! [pic2](pic2.png)
+![pic1](pic1.png)
+![pic2](pic2.png)
